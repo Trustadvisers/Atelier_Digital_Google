@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6191df70-fee4-4f33-8e83-7c22a274bc49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atelier_Digital_Google.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_1Basics/ch1/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_1Basics/ch2/FooBarQix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_1Basics/ch3/PairOf2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_1Basics/ch4/PairOf3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch1/BoxingMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch1/Fighter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch2/Actor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch2/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch2/Premiu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch2/Studio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/Spider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_2OO/ch3/TestAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch1/ArrayCustomIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch2/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch2/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch2/SortingStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch3/Proxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch4/ObservedSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch4/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch4/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch4/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch5/TemplateMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch6/Computer$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch6/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/ch6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Beverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Chocolate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Milk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Tea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Topping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/decorator/Whip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/CopiesVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/DurationVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_3DesignPatterns/visitor/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/calculator/ComplexCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/calculator/FatalException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/calculator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/calculator/NumberTooHighException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch1/PhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch1/Phonebook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch2/IOOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch2/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch3/Anagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch3/SecretMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch3/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch4/NumberToLcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_4Exceptions/ch5/Occurrence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/EUR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/ExchangeDesk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/RON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/Rate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch1/USD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch2/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch2/Shoe$Heels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch2/Shoe$Running.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch2/Shoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch3/GenericLonkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch4/GenericIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_5Generics/ch5/GenericBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch1/Leaders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch2/PascalsTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch3/BellsTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch4/ZigZag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch5/Merge2SortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch6/MatrixSpiral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch7/MyHashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch8/MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch9/HashSetEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/ch9/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/collection/hashmap/CNPSizeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/collection/hashmap/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/collection/hashmap/Student$CNPSizeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/collection/hashmap/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_6Collections/collection/hashmap/StudentDatabase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch1/RabbitRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch1/RabbitThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch2/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/_7Concurrency/ch2/TransactionThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/BookLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/Comedy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/Drama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/FactoryMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/OperatingLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Atelier_Digital_Google/ch1/Thriller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/BookLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/Comedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/Drama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/OperatingLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch1/Thriller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/ChatSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/ChatWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10ProjectsPatternDesign/ch2/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1Basics/ch1/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1Basics/ch2/FooBarQix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1Basics/ch3/PairOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1Basics/ch4/PairOf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch1/BoxingMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch1/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch2/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch2/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch2/Premiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch2/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2OO/ch3/TestAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch1/ArrayCustomIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch2/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch2/SortingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch3/Apartament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch3/ProxyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch3/RealEstateAgentProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch4/ObservedSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch4/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch4/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch5/TemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch6/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/ch6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/CopiesVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/DurationVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3DesignPatterns/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/calculator/ComplexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/calculator/FatalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/calculator/NumberTooHighException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch1/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch1/Phonebook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch2/IOOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch2/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch3/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch3/SecretMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch3/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch4/NumberToLcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4Exceptions/ch5/Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/EUR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/ExchangeDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/RON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/Rate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch1/USD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch2/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch3/GenericLinkedListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch3/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch3/GenericNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch3/IGenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch3/IGenericNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch4/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch4/GenericIteratorChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch4/Glove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch4/IArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch4/Sock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch5/ArrayNotSortedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5Generics/ch5/GenericBinarySearchChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch1/Leaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch2/PascalTriangleChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch3/BellTriangleChllenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch4/ZigZagChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch5/MergeSortedListsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch6/MatrixSpiralChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch7/MyHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch7/MyHashTableChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch7/MyHashTableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch8/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch8/MyArrayListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch8/MyArrayListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch9/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch9/MySetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/ch9/MySetImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/collection/hashmap/CNPSizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/collection/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/collection/hashmap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6Collections/collection/hashmap/StudentDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch1/RabbitRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch1/RabbitThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch2/TransactionThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7Concurrency/ch3/RockPaperScissorsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/CheckRangeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/ClosureExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/ListOfWordsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/MethodAndConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch3/ConsumerChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch4/PredicateChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8Functional/ch5/LambdaChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch1/FluxChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch2/MonoChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch3/OperationsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch4/TransformationsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9Reactive/ch5/MergingChallenge.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IjdXbGfVLBK9mqkpWeueXW2dwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ninja/IdeaProjects/Atelier_Digital_Google",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ninja\IdeaProjects\Atelier_Digital_Google\src" />
+      <recent name="C:\Users\Ninja\IdeaProjects\Atelier_Digital_Google\src\Exceptions4\ch3" />
+      <recent name="C:\Users\Ninja\IdeaProjects\Atelier_Digital_Google\src\Exceptions4\ch2" />
+      <recent name="C:\Users\Ninja\IdeaProjects\Atelier_Digital_Google\src\ExceptionsIo4\ch1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FluxChallenge">
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10ProjectsPatternDesign.ch1.FactoryMain" />
+      <module name="Atelier_Digital_Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_10ProjectsPatternDesign.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_9Reactive.ch1.FluxChallenge" />
+      <module name="Atelier_Digital_Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_9Reactive.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8Functional.ch3.Stream" />
+      <module name="Atelier_Digital_Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_8Functional.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7Concurrency.ch1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7Concurrency.ch1.Main" />
+      <module name="Atelier_Digital_Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7Concurrency.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7Concurrency.ch2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7Concurrency.ch2.Main" />
+      <module name="Atelier_Digital_Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7Concurrency.ch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FluxChallenge" />
+        <item itemvalue="Application._7Concurrency.ch1.Main" />
+        <item itemvalue="Application.Stream" />
+        <item itemvalue="Application.FactoryMain" />
+        <item itemvalue="Application._7Concurrency.ch2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6191df70-fee4-4f33-8e83-7c22a274bc49" name="Changes" comment="" />
+      <created>1670698968387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670698968387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

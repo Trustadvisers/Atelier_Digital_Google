@@ -1,0 +1,14 @@
+package _8Functional.ch1;
+
+
+import java.util.function.Function;
+
+public class ClosureExample {
+    public static void main(String[] args) {
+        final String hello = "Hello, ";
+        Function<String, String> helloFunction = (name) -> hello + name;
+
+        System.out.println(helloFunction.apply("John"));
+        System.out.println(helloFunction.apply("Anastasia"));
+    }
+}
